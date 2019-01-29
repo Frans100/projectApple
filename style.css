@@ -49,7 +49,7 @@ div.iphone1 {
 }
 
 div.button {
-    padding-top: 50px;
+    padding-top: 20px;
     text-align: center;
 }
 
@@ -61,7 +61,7 @@ div.button {
     color: #bbb;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
-    padding: 200 10;
+    padding: 15 15;
     border: 1px solid;
     border-color: #bbb;
 }
@@ -71,6 +71,8 @@ div.button {
     width: 100px;
     background-color: black;
     border: none;
+    position: relative;
+    
 
 
 }
@@ -125,4 +127,9 @@ div.iphone2 {
     background-color:black;
     display: block;
 
+}
+
+.world {
+    text-align: center;
+    background-color: black;
 }
