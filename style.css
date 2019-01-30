@@ -43,9 +43,9 @@ a:hover {
 
 div.iphone1 {
     width: auto;
-    height: 400px;
+    height: 350px;
     background-color: black;
-    border: solid 5px white;
+    border: solid 3px white;
 }
 
 div.button {
@@ -54,6 +54,7 @@ div.button {
 }
 
 .btn1 {
+    margin-top: 50px;
     text-align: center;
     height:50px;
     width: 100px;
@@ -72,18 +73,13 @@ div.button {
     background-color: black;
     border: none;
     position: relative;
-    
-
-
-}
+ }
 
 .btn2 a {
     color: #1E90FF;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
-
-
 }
 
     
@@ -111,6 +107,7 @@ div.button {
 
 
 div.text {
+    padding-top: 10px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
@@ -123,13 +120,19 @@ div.text {
     
 div.iphone2 {
     width: auto;
-    height: 300px;
+    height: 450px;
     background-color:black;
-    display: block;
+    
 
 }
 
-.world {
+.iphone {
     text-align: center;
-    background-color: black;
+    background-color:black;
+
+}
+.iphone3 {
+    width: auto;
+    height: 400px;
+    background-color: red;
 }
