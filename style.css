@@ -71,7 +71,7 @@ div.button {
     height: 50px;
     width: 100px;
     background-color: black;
-    border: none;
+    border:none;
     position: relative;
  }
 
@@ -133,6 +133,61 @@ div.iphone2 {
 }
 .iphone3 {
     width: auto;
-    height: 400px;
-    background-color: red;
+    height: 600px;
+    background-color: black;
+    border: solid 3px white;
 }
+.ipad {
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+div.text_white {
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    color:  black;
+    background-color: whitesmoke;
+}
+
+    
+.btn4 {
+    height: 50px;
+    width: 150px;
+    background-color: whitesmoke;
+    border:none;
+    position: relative;
+ }
+
+.btn4 a {
+    color: #1E90FF;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+    
+.btn5 {
+    height: 50px;
+    width: 150px;
+    background-color: whitesmoke;
+    border: none;
+
+}
+
+.btn5 a {
+    color: #1E90FF;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.btn4 a:hover, .btn5 a:hover {
+    color: #1E90FF;
+    text-decoration: underline;
+}
+
+
+  
