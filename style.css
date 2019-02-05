@@ -52,9 +52,12 @@ div.iphone1 {
 div.button {
     text-align: center;
 }
+div.but_high {
+    text-align: center;
+    padding-top: 100px;
+}
 
 .btn1 {
-    padding-top: 20px;
     text-align: center;
     height:50px;
     width: 100px;
@@ -194,11 +197,11 @@ div.ipad_pro {
 }
 
 div.blok1 {
-    display: block;
     float: left;
     width: 49%;
     background-color: whitesmoke;
     height: 400px;
+    border: 2px solid white;
 }
 
 
@@ -236,7 +239,7 @@ div.blok3 {
     width: 49%;
     background-color:whitesmoke;
     height: 400px;
-    border: solid 3px white;
+    border: solid 2px white;
 }
 
 div.corsica_image {
@@ -286,6 +289,6 @@ div.blok4 {
     width: 49%;
     background-color: whitesmoke;
     height: 400px;
-    border: solid 3px white;
+    border: solid 2px white;
 }
 
