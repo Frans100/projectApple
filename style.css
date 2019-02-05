@@ -165,6 +165,7 @@ div.text_white {
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
     font-weight: 400;
+
 }
 
     
@@ -198,19 +199,25 @@ div.blok1 {
     width: 49%;
     background-color: whitesmoke;
     height: 400px;
-    border: solid 3px white;
 }
 
 
 div.blok2 {
+    padding-top: 15px;
     display: block;
     float: left;
     width: 49%;
     background-color:whitesmoke;
     height: 400px;
-    border: solid 3px white;
-    
+
 }
+
+h2.apple {
+    display: inline;
+    margin-left:5px;
+}
+    
+
 img.watch {
     text-align: center;
 
@@ -220,8 +227,65 @@ img.watch {
 }
 span.red {
     color: red;
+    
 }
 
-  
+div.blok3 {
+    padding-top: 15px;
+    float: left;
+    width: 49%;
+    background-color:whitesmoke;
+    height: 400px;
+    border: solid 3px white;
+}
 
-  
+div.corsica_image {
+    background-image: url("/images/corsica.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+}
+
+div.corsica_text {
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    color:  white;
+  }
+
+  div.corsica {
+      text-align: center;
+      
+  }
+
+  button.btn6 {
+      background-color: transparent;
+      border: none;
+      height: 50px;
+      width: 150px;
+}
+
+
+.btn6 a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+
+}
+
+.btn6 a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+div.blok4 {
+    padding-top: 15px;
+    float: left;
+    width: 49%;
+    background-color: whitesmoke;
+    height: 400px;
+    border: solid 3px white;
+}
+
